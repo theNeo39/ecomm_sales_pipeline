@@ -65,7 +65,7 @@ kafka topic; to be consumed by various applications.
 
 **Note:**
 Main focus was understanding the tools and their integration to build pipeline for end requirement.
-We can come up with many business requirements and anlysis with this use case.
+We can come up with many business requirements and anlaysis with this use case.
 
 ## **References**
 
