@@ -1,0 +1,7 @@
+__pycache__
+.venv
+.idea
+data
+checkpoint
+spark-warehouse
+

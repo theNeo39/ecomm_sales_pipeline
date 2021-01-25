@@ -1,0 +1,11 @@
+---
+dev:
+  appName: saleInsights
+  brokerAddress: localhost
+  brokerPort: '9092'
+  topicName: salesdata
+  readingOffset: earliest
+  innerPartitions: 8
+  writeTopicName: streamout
+  checkpoint: './checkpoint'
+  processingTime: '30 seconds'

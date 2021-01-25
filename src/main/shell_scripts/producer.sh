@@ -1,0 +1,1 @@
+connect-standalone ./src/main/resources/connect-standalone.properties ./src/main/resources/quickstart-connect-file-pulse-csv.properties
